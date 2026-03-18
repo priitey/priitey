@@ -1,21 +1,19 @@
 <h1 align="center">Hello:) I'm Peter</h1>
 <h3 align="center">A communication designer, creative coder, creative technologist, professional bricoleur.</h3>
 
-- 🔭 I’m currently working on **a portfolio generator**
+- I’m currently working on **a logo generator**
 
-- 🌱 I’m currently learning **Payload, Arch:P, Flexible Visual Systems**
+- I’m currently learning **FastAPI and full stack design and development**
 
-- 👯 I’m looking to collaborate on **anything!**
+- I’m looking to collaborate on **anything!**
 
-- 🤝 I’m looking for help with **Bio-graphic Computing**
+- I’m looking for help with **freelance survival skills**
 
-- 👨‍💻 All of my projects are available at [https://prw.studio/](https://prw.studio/)
+- All of my projects are available at [https://prw.studio/](https://prw.studio/)
 
-- 💬 Ask me about **how to escape Adobe**
+- Ask me about **how to escape Adobe**
 
-- 📫 How to reach me **hello@prw.studio**
-
-- ⚡ Fun fact **We're back**
+- How to reach me **hello@prw.studio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
