@@ -1,11 +1,11 @@
 <h1 align="center">Hello:) I'm Peter</h1>
 <h3 align="center">A communication designer, creative coder, creative technologist, professional bricoleur.</h3>
 
-- I’m currently working on **a logo generator**
+- I’m currently working on **a logo and a website**
 
 - I’m currently learning **FastAPI and full stack design and development**
 
-- I’m looking to collaborate on **anything!**
+- I’m looking to collaborate on **generative art || design systems/tools**
 
 - I’m looking for help with **freelance survival skills**
 
